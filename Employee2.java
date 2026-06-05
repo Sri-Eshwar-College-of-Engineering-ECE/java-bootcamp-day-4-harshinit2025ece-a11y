@@ -13,7 +13,7 @@ class Employee2 {
     }
 
     public static void main(String[] args) {
-        Employee2 e1 = new Employee2("Arun");
+        Employee2 e1 = new Employee2("Dhishaa");
         Employee2 e2 = new Employee2("Harshi");
         Employee2 e3 = new Employee2("Dak");
 
